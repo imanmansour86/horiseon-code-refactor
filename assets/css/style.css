@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -57,6 +58,26 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+/* section style */
+section {
+    display:block;
+}
+
+/* header style */
+header {
+    display: block;
+}
+
+/* footer style */
+footer {
+    display: block;
+}
+
+/* aside style */
+aside {
+    display: block
 }
 
 .float-left {
