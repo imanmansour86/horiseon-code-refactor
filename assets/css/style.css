@@ -1,14 +1,16 @@
+/* Universal Selector */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* All selectors under body */
 body {
     background-color: #d9dcd6;
 }
 
-
+/* Header class selector */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero class selector */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,22 +63,18 @@ p {
     background-position: center;
 }
 
-/* section style */
 section {
     display:block;
 }
 
-/* header style */
 header {
     display: block;
 }
 
-/* footer style */
 footer {
     display: block;
 }
 
-/* aside style */
 aside {
     display: block
 }
