@@ -18,14 +18,19 @@ A preview screenshot of the website:
 
 ![image](https://user-images.githubusercontent.com/47014539/146128412-422f3e9f-6be2-4dd3-820e-ff341b1c4af0.png)
 
+## Technologies Used
+- HTML - used to create elements on the DOM
+- CSS - styles html elements on page
+- Git - version control system to track changes to source code
+- GitHub - hosts repository that can be deployed to GitHub Pages
+
 ## Links
 Use the following links to check the modified website:
 
-* URL of the deployed application:
-https://imanmansour86.github.io/horiseon-code-refactor/
+* [Deployed application](https://imanmansour86.github.io/horiseon-code-refactor/)
 
-* URL of the GitHub repository: https://github.com/imanmansour86/horiseon-code-refactor
+* [GitHub](https://github.com/imanmansour86/horiseon-code-refactor)
 
-* A preview screenshot of the website: 
-  https://postimg.cc/9rRBdbkG
+* [Screenshot of website](https://postimg.cc/9rRBdbkG)
+  
 
