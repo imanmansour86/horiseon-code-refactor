@@ -1,4 +1,4 @@
-# horiseon-code-refactor
+# Horiseon-code-refactor
 
 ## Introduction
 
